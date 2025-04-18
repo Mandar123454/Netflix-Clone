@@ -1,6 +1,6 @@
 # 🌟 MK Netflix Clone UI 🌟
 
-![Netflix Clone](bg.jpg)
+[Netflix Clone](bg.jpg)
 
 Welcome to **MK Netflix Clone UI**! 🚀 This is a responsive and beautifully designed **Netflix Clone UI**, built using **HTML** and **CSS**. It's an imitation of Netflix's landing page with smooth animations, stunning visuals, and a polished look.
 
